@@ -22,6 +22,6 @@
   },
   "dependencies": {
     "@uiw/codemirror-theme-vscode": "^4.23.14",
-    "markedit-theming": "https://github.com/MarkEdit-app/MarkEdit-theming#v0.6.0"
+    "markedit-theming": "https://github.com/MarkEdit-app/MarkEdit-theming#v0.7.0"
   }
 }
