@@ -2,6 +2,8 @@
 
 [VS Code](https://code.visualstudio.com/) default theme for [MarkEdit](https://github.com/MarkEdit-app/MarkEdit), built on top of [MarkEdit-theming](https://github.com/MarkEdit-app/MarkEdit-theming).
 
+To customize colors, see [Customization](https://github.com/MarkEdit-app/MarkEdit-theming/wiki#customization) for details.
+
 ## Installation
 
 Copy [dist/markedit-theme-vscode.js](dist/markedit-theme-vscode.js) to `~/Library/Containers/app.cyan.markedit/Data/Documents/scripts/`.
