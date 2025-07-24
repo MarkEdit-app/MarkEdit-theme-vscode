@@ -2,6 +2,8 @@
 
 [VS Code](https://code.visualstudio.com/) default theme for [MarkEdit](https://github.com/MarkEdit-app/MarkEdit), built on top of [MarkEdit-theming](https://github.com/MarkEdit-app/MarkEdit-theming).
 
+<img width="344" title="VS Code Light" src="https://github.com/user-attachments/assets/fddcb291-75d0-461c-8dbd-b9230bcc524e" /> <img width="344" title="VS Code Dark" src="https://github.com/user-attachments/assets/fd0d5de6-db2c-4399-ab88-750b87c5d673" />
+
 To customize colors, see [Customization](https://github.com/MarkEdit-app/MarkEdit-theming/wiki#customization) for details.
 
 ## Installation
